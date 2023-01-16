@@ -8,6 +8,6 @@ I'd like to work on a project that analyzes access to public parks and their des
 # Course Description + Objectives
 My understanding is that this course will teach us the foundations of coding in Python as well as learn how to clean up large data sets and transform data into a user-friendly visual. 
 I'm intersted in learning how to take a wide range of data, analyze, and transform it into an appealing visual. I'm hoping that by the end of the class, to be quicker in coding and be able to apply my skills to projects at work. 
-
-My github:
-My repo: 
+# Links
+- My github: https://github.com/cassie-truong
+- My repo: https://github.com/cassie-truong/up206-cassie/blob/dbf0270a89e8730aed49e1796ee9a8373d774cd1/README.md
